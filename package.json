@@ -1,0 +1,30 @@
+{
+  "name": "todo-app",
+  "version": "1.0.0",
+  "description": "tutorial nodejs with mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/developh/todo-app.git"
+  },
+  "keywords": [
+    "nodejs",
+    "mongodb",
+    "express",
+    "MEAN",
+    "Stack"
+  ],
+  "author": "Hamza Alayed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/developh/todo-app/issues"
+  },
+  "homepage": "https://github.com/developh/todo-app#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "mongoose": "^4.5.8"
+  }
+}
